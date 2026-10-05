@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Programming Student
 -------------------
 
-A passionate student developer from Denmark, currently studing Data & kommunikation (Speciale i programmering) at TEC
+A passionate student developer from Denmark, currently studing Cybersecurity, Diploma (BEng).
 
 * 🌍  I'm based in Copenhagen
 
